@@ -5,7 +5,9 @@
 - Popup แจ้งโอนเงินพร้อมนับถอยหลัง 1 นาที
 
 วิธีรันโปรเจ็ค
+
 git clone https://github.com/WestVirgini4/movie-store.git
+
 cd movie-store
 
 ติดตั้ง dependencies 
