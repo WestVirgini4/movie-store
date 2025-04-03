@@ -16,5 +16,7 @@ npm install
 รันโปรเจค Vite ใช้พอร์ต 5173
 npm run dev
 
+https://keen-cheesecake-1781d6.netlify.app/ 
+
 
 
